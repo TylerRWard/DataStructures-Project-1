@@ -27,4 +27,4 @@ None that I am aware of.
 2. **Run:**  
    Execute the program with an input file:  
    ```bash
-   ./tokenify <input_file>
+   ./a.out <input_file> <algorithm> [-print]
