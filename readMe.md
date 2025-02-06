@@ -21,7 +21,7 @@ At the top of the random file needs to be a number that says how many words are 
 
 ## How I solved the problem 
 
-
+Started making bubble sort becasue its the simplest. Moved on to merge and quick. Added a line in main for system sort and moved on to heap. Heap was difficult but not too bad. I then ran all of the test cases and created a graph for the random test cases. I then moved on to sorted test cases and created the graph for that. 
 
 ---
 ## How to Use
